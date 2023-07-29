@@ -1820,3 +1820,11 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.07.29-09.51.06:632][ 87]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/RPG_Character/Animations/Locomotion/LocomotionBlendSpace1D_Auto3
 [2023.07.29-09.51.06:632][ 87]LogSavePackage: Moving '../../../../../RPG_Tutorial/Saved/LocomotionBlendSpace1D_Auto3415A7EDE432A7F454C03548443A48E08.tmp' to '../../../../../RPG_Tutorial/Saved/Autosaves/Game/Characters/RPG_Character/Animations/Locomotion/LocomotionBlendSpace1D_Auto3.uasset'
 [2023.07.29-09.51.06:632][ 87]LogFileHelpers: Auto-saving content packages took 0.045
+[2023.07.29-09.53.12:634][751]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.07.29-09.53.12:637][751]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-09.53.12:712][751]LogSavePackage: Moving output files for package: /Game/Characters/RPG_Character/Animations/Locomotion/LocomotionBlendSpace1D
+[2023.07.29-09.53.12:712][751]LogSavePackage: Moving '../../../../../RPG_Tutorial/Saved/LocomotionBlendSpace1D14EA3A1740E4726D8D6BE9AA7948FDA5.tmp' to '../../../../../RPG_Tutorial/Content/Characters/RPG_Character/Animations/Locomotion/LocomotionBlendSpace1D.uasset'
+[2023.07.29-09.53.12:720][751]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 767 ms)
+[2023.07.29-09.53.12:726][751]AssetCheck: New page: Asset Save: LocomotionBlendSpace1D
+[2023.07.29-09.53.12:726][751]LogContentValidation: Display: Validating /Script/Engine.BlendSpace1D /Game/Characters/RPG_Character/Animations/Locomotion/LocomotionBlendSpace1D.LocomotionBlendSpace1D
+[2023.07.29-09.53.20:426][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
